@@ -29,3 +29,5 @@ document.getElementById('clear').onclick = clearHighscores;
 
 // run function when page loads
 printHighscores();
+
+Message @{Windows 11} Chinaza O
